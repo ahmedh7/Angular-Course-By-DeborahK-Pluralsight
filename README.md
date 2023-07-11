@@ -1,3 +1,13 @@
+#Angular Course by Deborah Kurata on Pluralsight
+## Topics covered uptill now:
+#### Introduction to Angular and Angular CLI
+#### Components (Component class - Metadata and Decorators - Templates as properties)
+#### Directives (Custom HTML elements - bult-in directives ngIF & ngFor)
+#### Property binding, event binding, 2-way bindings and Pipes
+#### Lifecycle Hooks - Getters and Setters
+#### Nested components and EventEmitters
+- uptill now the app renders a products list with a button to show and hide images, a click event listeners to showcase click event behaviours and passing data to conataining component, a filter box to filter the list
+
 # Apm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
